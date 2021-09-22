@@ -1,1 +1,1 @@
-# C-28-HW-EPIC-ARCHERY-STAGE-7
+# project-C28-template
